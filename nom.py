@@ -3,5 +3,5 @@
 
 Nom = raw_input("Quel est votre nom ? ")
 print "Bonjour " + Nom
-Ou
+# Ou
 print " Bonjour " + raw_input(" Quel est votre nom ? " )
