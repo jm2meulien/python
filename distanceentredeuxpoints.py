@@ -4,9 +4,9 @@
 
 # -*- coding:utf-8 -*-
 import math
-print “xA?”
+print "xA?"
 xA = int(raw_input())
-print “yA?”
+print "yA?"
 yA = int(raw_input())
 print "xB?"
 xB = int(raw_input())
