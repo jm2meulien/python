@@ -1,4 +1,3 @@
-# Fonction factorielle
 # -*- coding:utf-8 -*-
 def fac (n):
   f = 1
