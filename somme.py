@@ -1,5 +1,3 @@
-# Écrire un programme qui demande à l’utilisateur la saisie de a et b et affiche la somme
-# de a et de b.
 # -*- coding :utf-8 -*-
 def Valeurs(var_a,var_b) :
   print(" Voici le résultat de a + b : "+str(var_c)+ " ! ")
