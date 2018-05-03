@@ -1,5 +1,3 @@
-# Fonction affichant la table de multiplication
-
 # -*- coding:utf-8 -*-
 def table(nb, max=10):
   i = 0
