@@ -1,7 +1,3 @@
-# Écrire un programme qui demande à l’utilisateur les coordonnées de deux points dans le
-# plan et qui calcule puis affiche la distance entre ces deux points selon la formule : d =
-# \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}
-
 # -*- coding:utf-8 -*-
 import math
 print "xA?"
